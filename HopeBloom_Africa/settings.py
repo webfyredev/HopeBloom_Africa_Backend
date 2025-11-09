@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-g$odkiphsm%5!v-@nz1zs**&-uvl==#lcn=(&3#bmeowut9fls
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['localhost', '127.0.0.1']
+ALLOWED_HOSTS = ['https://hopebloom-africa-backend1.onrender.com/', 'localhost']
 CSRF_TRUSTED_ORIGINS = [
     'http://localhost:5173',
     'http://127.0.0.1:5173'
