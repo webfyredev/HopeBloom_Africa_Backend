@@ -1,0 +1,1 @@
+web: gunicorn HopeBloom_Africa.wsgi
